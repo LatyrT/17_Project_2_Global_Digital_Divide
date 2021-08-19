@@ -30,7 +30,7 @@ The mandatory steps to be taken to make the code work smoothly.
 
 ### **3.1 License & Key**
 
-You must have set up a password to connect to a database. See details (here)[03_User_Guide_v0.3.docx].
+You must have set up a password to connect to a database. See details [here](03_User_Guide_v0.3.docx).
 
 
 ### **3.2 Installing**
@@ -41,7 +41,7 @@ Feel free to adjust if you are using a Mac OS or any other operating system.
 What things you need to install the software and how to install them:
 
 * Jupyter Notebook
-* All Python modules required to run the process. See details (here)[03_User_Guide_v0.3.docx].
+* All Python modules required to run the process. See details [here](03_User_Guide_v0.3.docx).
 * Any web browser (Chrome, ...) 
 * Anaconda/Python terminal
 * Any IDE that enable to write or read code (VS Code, ...)
@@ -59,17 +59,19 @@ The following tools and coding languages were used:
 
 ## **5. Data Source(s)**
 
+
 The data used as input is coming from the following sources:
 * World bank API: https://datahelpdesk.worldbank.org/knowledgebase/articles/898581-api-basic-call-structures
 * Web index: https://thewebindex.org/downloads/
 * Compare the market: https://www.comparethemarket.com/broadband/content/global-broadband-index/
 * Internet World Stats: https://www.internetworldstats.com/stats1.html
 
+NOTE: The data sources websites may have evolved, causing the scrping and Jupyter Notebook not to work a year after this project. 
 
 ## **6. Run the code**
 
 ### **Step 1: The code is located here**
-Follow (this documentation)[03_User_Guide_v0.3.docx] to see what code to run.
+Follow [this documentation](03_User_Guide_v0.3.docx) to see what code to run.
 Subsequent code, e.g. the destination html page to open after the index page, is available but not describe in the documentation.
 
 ### **Step 2: Extract all files & run the code**
@@ -103,6 +105,11 @@ See related documentation to learn more about acceptence criteria:
 
 
 ## **9. Expected result**
+
+NOTE: The data sources websites may have evolved, causing the scrping and Jupyter Notebook not to work a year after this project.
+
+* [Documentation](03_User_Guide_v0.3.docx)
+* [Presentation](04_Presentation.pdf)
 
 The outcome should be similar to the below:
 
