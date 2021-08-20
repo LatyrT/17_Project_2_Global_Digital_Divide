@@ -38,7 +38,7 @@ You must have set up a password to connect to a database. See details [here](03_
 The assumption here is that your computer is running on Windows 10.
 Feel free to adjust if you are using a Mac OS or any other operating system.
 
-What things you need to install the software and how to install them:
+What software do you need and how to install them?
 
 * Jupyter Notebook
 * All Python modules required to run the process. See details [here](03_User_Guide_v0.3.docx).
@@ -85,7 +85,8 @@ Subsequent code, e.g. the destination html page to open after the index page, is
 * Select: Open in integrated terminal
 * It should open the terminal
 * In the terminal do the following:
-    * Type the command 'conda activate Your_Environment_Name' ; Your_Environment_Name is the name of your Python environment you defined
+    * Type the command 'conda activate Your_Environment_Name'
+    * Your_Environment_Name is the name of your Python environment you defined
     * Run the server by typing the following: 'Python -m http.server'
     * Then, copy/paste this url [localhost](http://localhost:8000/) into your browser and press enter
 * The page should load the welcome page and you can navigate to show the desired information
